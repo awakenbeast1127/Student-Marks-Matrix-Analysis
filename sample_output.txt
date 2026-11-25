@@ -1,0 +1,14 @@
+STUDENT MARKS MATRIX ANALYSIS
+------------------------------------------------
+Student-wise results:
+Aisha      Total=253 Average=84.33
+Bilal      Total=229 Average=76.33
+Zoya       Total=274 Average=91.33
+Hamza      Total=135 Average=45.00
+
+Subject-wise averages:
+Python     73.25
+Maths      75.50
+Physics    74.00
+Top performer(s): Zoya
+Subjects below 50 average: None
